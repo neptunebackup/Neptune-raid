@@ -1,0 +1,39 @@
+Tutorial for tol startup and every single feature (free version)
+
+create a bot on discord dev portal, turn on the 3 gateway settings, add the bot to the server,
+give it admin permissions. Copy and paste the bot token o the tool when it asks, if it ask for server guild id,
+you can get it by right clicking to the server icon, the press "copy server ID"
+
+
+[01] nuke
+type in 01 then it will start te nuke (be ready for time limit if u wont stop it soon enough)
+
+[02] Ban All Members
+type in 02 and it will ban everyone who doesnt have higher roles than the bot
+
+[03] Dm Spam
+type in 03 then the text you want the bot to dm everyone who has open dms. (note that this will send the text once only, you can spam only with premium)
+
+[04] Delete roles
+type in 04 then it will keep deleting roles
+
+[05] Delete emojis
+type in 05 then it will delete all emojis
+
+[06] Rename server
+type in 06 then the name you want to give the serer
+
+[07] Change server icon
+you need to save a picture in the same folder u have the raid.exe in, named "icon.png" then type in 07 to change it to it.
+
+[08] Create roles
+type in 08 then it will spam creating random roles
+
+[09] Create emojis
+you need to save pictures in the same folder u have the raid.exe in named "emoji_image.png" then type in 09 to create them
+
+[10] Quarantine
+type in 10 then it will put everyone into a role that doesnt have acces to anything on the server
+
+
+
